@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/SV3N23/SV3N23/master/wave.gif" width="25px"> Hi there! I'm Danila([SV3N](https://github.com/SV3N23/))
+## <img src="https://raw.githubusercontent.com/SV3N23/SV3N23/master/wave.gif" width="25"> Hi there! I'm Danila([SV3N](https://github.com/SV3N23/))
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=SV3N23.visitor-badge&color=5194f0" />
 </p>
