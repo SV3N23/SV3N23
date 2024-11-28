@@ -8,20 +8,27 @@
 
 ---
 
-<img align="right" alt="GIF" src="assets/code.gif" width="500" height="320"/>
+### 💻 About Me:
 
-**💻 I'm a Backend Developer.**
-
-- ⚡ I’m currently working on [**Laravel Framework**](https://laravel.com/)
-- 🤖 Write bots for [**VK**](https://vk.com/) and [**Telegram**](https://telegram.org/)
+- 🎯 **Backend Developer**, passionate about building reliable APIs and solutions.
+- ⚙️ Currently working with [**Laravel Framework**](https://laravel.com/).
+- 🤖 Developing bots for [**VK**](https://vk.com/) and [**Telegram**](https://telegram.org/).
+- 📘 Constantly learning new technologies and improving my skills.
+  
 ---
 
-<details>
-    <summary><h2>🔧 Technologies</h2></summary>
-    <h3>Langs</h3>
-        <img src="https://skillicons.dev/icons?i=php&perline=7"/>
-    <h3>Frameworks</h3>
-        <img src="https://skillicons.dev/icons?i=laravel&perline=7"/>
-    <h3>Tools</h3>
-        <img src="https://skillicons.dev/icons?i=phpstorm,vscode,postman,docker,git,mysql&perline=7"/>
-</details>
+<img align="right" alt="GIF" src="assets/code.gif" width="400" height="300"/>
+
+### 🛠️ Technologies:
+
+<summary><h3>💻 Programming Language</h3></summary>
+<img src="https://skillicons.dev/icons?i=php&perline=7"/>
+
+<summary><h3>🔧 Tools</h3></summary>
+<img src="https://skillicons.dev/icons?i=laravel,phpstorm,postman,docker,git,mysql&perline=7"/>
+
+---
+
+### 🧠 Interests:
+- 🌐 Developing REST APIs and backend system architecture.
+- 🤝 Collaborating on projects using Git and Docker.
